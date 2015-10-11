@@ -1,8 +1,9 @@
 from ds.bag import Bag
 from ds.queue import Queue
+from ds.stack import Stack
 
 b = Bag()
-b.add(3)
 q = Queue()
+s = Stack()
 
 import pdb; pdb.set_trace()
